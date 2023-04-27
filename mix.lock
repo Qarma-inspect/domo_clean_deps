@@ -1,0 +1,4 @@
+%{
+  "domo": {:hex, :domo, "1.5.11", "652542b404af289f3ce258315b7845399d1b64568597f21f7679ecb8e80768b6", [:mix], [{:decimal, ">= 0.0.0", [hex: :decimal, repo: "hexpm", optional: true]}, {:ecto, ">= 0.0.0", [hex: :ecto, repo: "hexpm", optional: true]}], "hexpm", "f47ecf1d12d4bf908499a0590f3e5dcf053e6b478db9e73c5bef97a5741f3bb0"},
+  "typed_struct": {:hex, :typed_struct, "0.3.0", "939789e3c1dca39d7170c87f729127469d1315dcf99fee8e152bb774b17e7ff7", [:mix], [], "hexpm", "c50bd5c3a61fe4e198a8504f939be3d3c85903b382bde4865579bc23111d1b6d"},
+}
